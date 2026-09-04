@@ -1,10 +1,10 @@
 # flutter_application_1
 
-Painel de Motivação — Atividade Flutter
-Aluno
+Painel de Motivação — Atividade Flutter <br>
+Aluno:
 Pedro Lucas Alves Batista
-
-Disciplina
+<br>
+Disciplina:
 Desenvolvimento para Dispositivos Móveis I
 
 Descrição da Atividade
