@@ -28,9 +28,9 @@ Android Studio com Android SDK configurado; <br>
 Um emulador Android configurado (AVD) ou um dispositivo físico com depuração USB ativada. <br>
 Passo a passo <br>
 Clone este repositório: <br>
-   git clone <br>
+   git clone https://github.com/pedrobatistadev/flutter_application_1.git <br>
 Acesse a pasta do projeto: <br>
-   cd <br>
+   cd flutter_application_1 <br>
 Instale as dependências: <br>
    flutter pub get <br>
 Verifique se o ambiente está configurado corretamente: <br>
